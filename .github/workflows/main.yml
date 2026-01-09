@@ -1,0 +1,79 @@
+name: Running gtests, collecting coverage (push master)
+
+on:
+  push:
+    branches: [ main ]
+
+env:
+  LINE_COV_GATE: 0
+  MCDC_COV_GATE: 0
+  DTP_PROJECT: ATM_testing
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+jobs:
+  build:
+    runs-on: self-hosted
+    continue-on-error: true
+
+    steps:
+    - uses: actions/checkout@v4
+
+    - name: Clear build 
+      run: rm -rf build
+
+    - name: Configure CMake
+      shell: bash
+      working-directory: ${{github.workspace}}
+      run: cmake -DCPPTEST_COVERAGE=ON -S . -B build
+
+    - name: Build 
+      working-directory: ${{github.workspace}}/build
+      shell: bash
+      # Execute the build.  You can specify a specific target with "--target <NAME>"
+      run: make
+
+    - name: Run Tests
+      working-directory: ${{github.workspace}}/build
+      shell: bash
+      run: |
+        rm -rf /cpptest-coverage/ATM/ATM.clog
+        ls
+        rm -rf gtest_results.xml
+        ./atm_test --gtest_output=xml:gtest_results.xml
+      continue-on-error: true
+
+    - name: Generate Reports
+      working-directory: ${{github.workspace}}/build
+      shell: bash
+      run: make cpptestcov-compute cpptestcov-suppress cpptestcov-report
+
+    - name: Archive reports
+      if: always()
+      uses: actions/upload-artifact@v4
+      with:
+        name: CpptestReports
+        include-hidden-files: true
+        path: |
+          ${{github.workspace}}/.coverage/*.*
+
+    - name: Publish Reports to DTP
+      working-directory: ${{github.workspace}}
+      shell: bash
+      # Execute the build.  You can specify a specific target with "--target <NAME>"
+      run:  cd build && ./atm_test || cd .. && /mnt/c/Users/syoung/Documents/CppTestLinux/cpptest-ct/bin/cpptestcov report dtp -root . -settings cpptestct.properties .coverage /mnt/c/Users/syoung/Documents/RunnerCT/actions-runner/_work/CTDemo/CTDemo/build/gtest_results.xml
+    
+    - name: Line Coverage Quality Gate
+      working-directory: ${{github.workspace}}
+      shell: bash
+      # Query for project's coverage and compare with the gate requirements
+      run: NUMBER=$(/mnt/c/Users/syoung/Documents/CppTestLinux/cpptest-ct/bin/cpptestcov query -coverage LC .coverage) && if [ $NUMBER -lt $LINE_COV_GATE ]; then echo "Line coverage quality gate failed"; echo "Expected result $LINE_COV_GATE%, achieved $NUMBER%"; false; else echo "Line coverage quality gate passed with $NUMBER% (required $LINE_COV_GATE%)"; true; fi      
+      
+    - name: MCDC Coverage Quality Gate
+      working-directory: ${{github.workspace}}
+      shell: bash
+      # Query for project's coverage and compare with the gate requirements
+      run: NUMBER=$(/mnt/c/Users/syoung/Documents/CppTestLinux/cpptest-ct/bin/cpptestcov query -coverage MCDC .coverage) && if [ $NUMBER -lt $MCDC_COV_GATE ]; then echo "MCDC coverage quality gate failed"; echo "Expected result $MCDC_COV_GATE%, achieved $NUMBER%"; false; else echo "MC/DC coverage quality gate passed with $NUMBER% (required $MCDC_COV_GATE%)"; true; fi  
