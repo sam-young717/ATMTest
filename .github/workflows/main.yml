@@ -64,7 +64,7 @@ jobs:
       working-directory: ${{github.workspace}}
       shell: bash
       # Execute the build.  You can specify a specific target with "--target <NAME>"
-      run:  cd build && ./atm_test || cd .. && /mnt/c/Users/syoung/Documents/CppTestLinux/cpptest-ct/bin/cpptestcov report dtp -root . -settings cpptestct.properties .coverage /mnt/c/Users/syoung/Documents/RunnerCT/actions-runner/_work/CTDemo/CTDemo/build/gtest_results.xml
+      run:  cd build && ./atm_test || cd .. && /mnt/c/Users/syoung/Documents/CppTestLinux/cpptest-ct/bin/cpptestcov report dtp -root . -settings cpptestct.properties .coverage /mnt/c/Users/syoung/Documents/RunnerCT/actions-runner/_work/CTDemo/CTDemo/build/test.xml
     
     - name: Line Coverage Quality Gate
       working-directory: ${{github.workspace}}
