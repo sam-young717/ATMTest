@@ -1,0 +1,120 @@
+<->
+<F>/mnt/c/Users/syoung/Documents/RunnerCT/actions-runner/_work/CTDemo/CTDemo/ATM.cpp
+<c>CODSTA-138
+<b>Assignment operator '=' is used in improper context
+<l>15
+<k>12
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>/mnt/c/Users/syoung/Documents/RunnerCT/actions-runner/_work/CTDemo/CTDemo/ATM.cpp
+<c>CODSTA-138
+<b>Assignment operator '=' is used in improper context
+<l>15
+<k>12
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>/mnt/c/Users/syoung/Documents/RunnerCT/actions-runner/_work/CTDemo/CTDemo/ATM.cpp
+<c>CODSTA-35
+<b>Missing default branch in switch statement
+<l>24
+<k>9
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>/mnt/c/Users/syoung/Documents/RunnerCT/actions-runner/_work/CTDemo/CTDemo/ATM.cpp
+<c>MISRA2004-13_2
+<b>Test of a value against zero should be made explicit
+<l>23
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>/mnt/c/Users/syoung/Documents/RunnerCT/actions-runner/_work/CTDemo/CTDemo/ATM.cpp
+<c>MISRA2004-14_9
+<b>Conditional statement 'if' in a function 'fillUserRequest' should be followed by a block
+<l>23
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>/mnt/c/Users/syoung/Documents/RunnerCT/actions-runner/_work/CTDemo/CTDemo/ATM.cpp
+<c>MISRA2004-15_2
+<b>Every non empty case clause in a switch statement shall be terminated with a break statement
+<l>32
+<k>13
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>/mnt/c/Users/syoung/Documents/RunnerCT/actions-runner/_work/CTDemo/CTDemo/ATM.cpp
+<c>MISRA2004-6_3_b
+<b>The basic numerical type 'int' should not be used
+<l>13
+<k>23
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>/mnt/c/Users/syoung/Documents/RunnerCT/actions-runner/_work/CTDemo/CTDemo/ATM.cpp
+<c>MISRA2004-6_3_b
+<b>The basic numerical type 'double' should not be used
+<l>21
+<k>48
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>/mnt/c/Users/syoung/Documents/RunnerCT/actions-runner/_work/CTDemo/CTDemo/ATM.cpp
+<c>MISRA2004-6_3_b
+<b>The basic numerical type 'double' should not be used
+<l>39
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>/mnt/c/Users/syoung/Documents/RunnerCT/actions-runner/_work/CTDemo/CTDemo/ATM.cpp
+<c>MISRA2004-6_3_b
+<b>The basic numerical type 'double' should not be used
+<l>47
+<k>45
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>/mnt/c/Users/syoung/Documents/RunnerCT/actions-runner/_work/CTDemo/CTDemo/ATM.cpp
+<c>MISRA2004-6_3_b
+<b>The basic numerical type 'double' should not be used
+<l>54
+<k>23
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>/mnt/c/Users/syoung/Documents/RunnerCT/actions-runner/_work/CTDemo/CTDemo/ATM.cpp
+<c>MISRA2004-6_3_b
+<b>The basic numerical type 'double' should not be used
+<l>61
+<k>20
+<s>false
+<N>
+<f>
+<L>0

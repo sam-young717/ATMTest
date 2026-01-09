@@ -1,0 +1,40 @@
+<->
+<F>/mnt/c/Users/syoung/Documents/RunnerCT/actions-runner/_work/CTDemo/CTDemo/BaseDisplay.cpp
+<c>MISRA2004-13_2
+<b>Test of a value against zero should be made explicit
+<l>9
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>/mnt/c/Users/syoung/Documents/RunnerCT/actions-runner/_work/CTDemo/CTDemo/BaseDisplay.cpp
+<c>CODSTA-35
+<b>Missing default branch in switch statement
+<l>25
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>/mnt/c/Users/syoung/Documents/RunnerCT/actions-runner/_work/CTDemo/CTDemo/BaseDisplay.cpp
+<c>MISRA2004-6_3_b
+<b>The basic numerical type 'double' should not be used
+<l>15
+<k>31
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>/mnt/c/Users/syoung/Documents/RunnerCT/actions-runner/_work/CTDemo/CTDemo/BaseDisplay.cpp
+<c>MISRA2004-6_3_b
+<b>The basic numerical type 'double' should not be used
+<l>23
+<k>56
+<s>false
+<N>
+<f>
+<L>0

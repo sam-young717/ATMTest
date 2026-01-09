@@ -1,0 +1,7 @@
+file=/mnt/c/Users/syoung/Documents/RunnerCT/actions-runner/_work/CTDemo/CTDemo/ATM.cpp
+compiler=gcc_9-64
+working_dir=/mnt/c/Users/syoung/Documents/RunnerCT/actions-runner/_work/CTDemo/CTDemo/build
+arg=/usr/bin/c++
+arg=-std=gnu++14
+arg=-c
+arg=/mnt/c/Users/syoung/Documents/RunnerCT/actions-runner/_work/CTDemo/CTDemo/ATM.cpp

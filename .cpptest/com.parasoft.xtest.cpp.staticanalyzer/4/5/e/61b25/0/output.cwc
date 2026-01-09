@@ -1,0 +1,80 @@
+<->
+<F>/mnt/c/Users/syoung/Documents/RunnerCT/actions-runner/_work/CTDemo/CTDemo/Bank.cpp
+<c>MISRA2004-20_4
+<b>'new' operator should not be used
+<l>36
+<k>28
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>/mnt/c/Users/syoung/Documents/RunnerCT/actions-runner/_work/CTDemo/CTDemo/Bank.cpp
+<c>CODSTA-123
+<b>The '++' operator should cause the only side effect in an expression
+<l>37
+<k>35
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>/mnt/c/Users/syoung/Documents/RunnerCT/actions-runner/_work/CTDemo/CTDemo/Account.hxx
+<c>MISRA2004-16_3
+<b>Names shall be given for all the parameters in function 'Account'
+<l>21
+<k>9
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>/mnt/c/Users/syoung/Documents/RunnerCT/actions-runner/_work/CTDemo/CTDemo/Account.hxx
+<c>MISRA2004-16_3
+<b>Names shall be given for all the parameters in function 'listTransactions'
+<l>64
+<k>13
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>/mnt/c/Users/syoung/Documents/RunnerCT/actions-runner/_work/CTDemo/CTDemo/Account.hxx
+<c>MISRA2004-16_3
+<b>Names shall be given for all the parameters in function 'Account'
+<l>68
+<k>9
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>/mnt/c/Users/syoung/Documents/RunnerCT/actions-runner/_work/CTDemo/CTDemo/Account.hxx
+<c>MISRA2004-16_3
+<b>Names shall be given for all the parameters in function '='
+<l>69
+<k>26
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>/mnt/c/Users/syoung/Documents/RunnerCT/actions-runner/_work/CTDemo/CTDemo/Bank.cpp
+<c>MISRA2004-2_4
+<b>Section of code should not be 'commented out'
+<l>28
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>/mnt/c/Users/syoung/Documents/RunnerCT/actions-runner/_work/CTDemo/CTDemo/Bank.cpp
+<c>MISRA2004-6_3_b
+<b>The standard integer type 'int' should not be used
+<l>15
+<k>27
+<s>false
+<N>
+<f>
+<L>0

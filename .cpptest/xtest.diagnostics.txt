@@ -1,0 +1,308 @@
+Diagnostics file initialized on Fri Jan 09 10:02:05 EST 2026
+
+================================================================================================
+SERVICE: com.parasoft.xtest.coverage.all.CoverageServicesRegistry$4@52500920
+CONTEXT: com.parasoft.cpptest.coverage.report.dtp.DTPReporter$ResultsServiceContext@53ab0286
+LICENSE ENABLED: true
+================================================================================================
+DIAGNOSTICS INFO:
+    (Not available)
+
+================================================================================================
+SERVICE: com.parasoft.xtest.coverage.all.CoverageServicesRegistry$5@117e0fe5
+CONTEXT: com.parasoft.cpptest.coverage.report.dtp.DTPReporter$ResultsServiceContext@53ab0286
+LICENSE ENABLED: true
+================================================================================================
+DIAGNOSTICS INFO:
+    (Not available)
+
+================================================================================================
+SERVICE: com.parasoft.xtest.coverage.all.CoverageServicesRegistry$3@18a3962d
+CONTEXT: com.parasoft.cpptest.coverage.report.dtp.DTPReporter$ResultsServiceContext@53ab0286
+LICENSE ENABLED: true
+================================================================================================
+DIAGNOSTICS INFO:
+Registered coverage services:
+    com.parasoft.xtest.coverage.CoverageService coverage types=
+
+
+================================================================================================
+SERVICE: com.parasoft.xtest.coverage.all.CoverageServicesRegistry$6@78aea4b9
+CONTEXT: com.parasoft.cpptest.coverage.report.dtp.DTPReporter$ResultsServiceContext@53ab0286
+LICENSE ENABLED: true
+================================================================================================
+DIAGNOSTICS INFO:
+    (Not available)
+
+================================================================================================
+SERVICE: com.parasoft.xtest.authorship.internal.computer.AuthorshipService@388ffbc2
+CONTEXT: com.parasoft.cpptest.coverage.report.dtp.DTPReporter$ResultsServiceContext@53ab0286
+LICENSE ENABLED: 
+================================================================================================
+LOCAL SETTINGS:
+    (Empty)
+
+DIAGNOSTICS INFO:
+Authorship computers:
+    com.parasoft.xtest.authorship.internal.computer.ScmAuthorshipComputer isEnabled=false
+    com.parasoft.xtest.authorship.internal.computer.LocalUserAuthorshipComputer isEnabled=true
+
+
+================================================================================================
+SERVICE: com.parasoft.xtest.coverage.all.CoverageServicesRegistry$7@2a65bb85
+CONTEXT: com.parasoft.cpptest.coverage.report.dtp.DTPReporter$ResultsServiceContext@53ab0286
+LICENSE ENABLED: true
+================================================================================================
+DIAGNOSTICS INFO:
+    (Not available)
+
+================================================================================================
+SERVICE: com.parasoft.xtest.coverage.all.CoverageServicesRegistry$1$1@6293713
+CONTEXT: com.parasoft.cpptest.coverage.report.dtp.DTPReporter$ResultsServiceContext@53ab0286
+LICENSE ENABLED: true
+================================================================================================
+LOCAL SETTINGS:
+    (Empty)
+
+DIAGNOSTICS INFO:
+Source control statuses: 
+    1. git (disabled, {com.parasoft.xtest.sourcecontrol.git.exec=git})
+Repository Descriptions: 
+
+
+================================================================================================
+SERVICE: com.parasoft.xtest.common.oidc.OidcService@5be82d43
+CONTEXT: com.parasoft.cpptest.coverage.report.dtp.DTPReporter$ResultsServiceContext@53ab0286
+LICENSE ENABLED: 
+================================================================================================
+LOCAL SETTINGS:
+    oidc.client.secret=>>not set<<
+    oidc.keystore.password=>>not set<<
+
+DIAGNOSTICS INFO:
+OpenID Connect Service is not enabled.
+
+================================================================================================
+SERVICE: com.parasoft.xtest.common.dtp.DtpServiceRegistry@255e5e2e
+CONTEXT: com.parasoft.cpptest.coverage.report.dtp.DTPReporter$ResultsServiceContext@53ab0286
+LICENSE ENABLED: 
+================================================================================================
+LOCAL SETTINGS:
+    (Empty)
+
+DIAGNOSTICS INFO:
+Connection settings: 
+    User: admin
+    Password: >>hidden<<
+    Project: ATM: Default
+    Server: https://localhost:8443
+
+Available services: 
+    dataCollectorV2 : https://localhost:8082/api/v2/dataCollector
+    testConfigurationsExtended : https://localhost:8443/grs/api/v1/testConfigurations
+    existingLocalSourceCopy : https://localhost:8082/api/v1/existingLocalSourceCopy
+    rules : https://localhost:8443/grs/api/v1/rules
+    tools : https://localhost:8443/grs/api/v1/tools
+    changeExplorer : https://localhost:8443/grs/dtp/explorers/change
+    priorities : https://localhost:8443/grs/api/v1/priorities
+    processIntelligenceEngine : http://localhost:8314
+    staticAnalysisViolations : https://localhost:8443/grs/api/v1/staticAnalysisViolations
+    builds : https://localhost:8443/grs/api/v1/builds
+    metricsExplorer : https://localhost:8443/grs/dtp/explorers/metrics
+    violationsExplorer : https://localhost:8443/grs/dtp/explorers/violations
+    reportedResourcesScmRepositories : https://localhost:8443/grs/api/v1/reportedResourcesScmRepositories
+    localSettings : https://localhost:8443/grs/api/v1/dtpServices/localSettings
+    coverage : https://localhost:8443/grs/api/v1/coverage
+    staticAnalysisViolationsMetadata : https://localhost:8443/grs/api/v1/staticAnalysisViolations/metadata
+    dynamicAnalysisTestCases : https://localhost:8443/grs/api/v1/dynamicAnalysisTestCases
+    licenseServerV1.2 : https://localhost:8443/licenseserver/api/v1.2
+    testExplorer : https://localhost:8443/grs/dtp/explorers/test
+    licenseServerV1.1 : https://localhost:8443/licenseserver/api/v1.1
+    filters : https://localhost:8443/grs/api/v1/filters
+    dataCollector : https://localhost:8082/api/v1/dataCollector
+    coverageExplorer : https://localhost:8443/grs/dtp/explorers/coverage
+    ruleMapResources : https://localhost:8443/grs/api/v1/testConfigurations/ruleMaps/resources
+    license : https://localhost:8443/grs/api/v1/license/token
+    testConfigurations : https://localhost:8443/grs/api/v1/testConfigurations
+    licenseServer : https://localhost:8443/licenseserver/api/v1
+    reportCenter : https://localhost:8443/grs/index.jsp
+
+================================================================================================
+SERVICES PROFILER
+================================================================================================
+Services provider profiler (COUNT > 1):
++ ----------------------------------------- + ----- + --------- +
+| NAME                                      | COUNT | TOTAL [s] |
++ ----------------------------------------- + ----- + --------- +
+| getService(IProfilerService)              | 7     | 0.0       |
+| getService(IProxySettingsProviderService) | 3     | 0.0       |
+| getService(IProfilerStatisticsService)    | 7     | 0.0       |
+| getService(ITelemetryReporter)            | 3     | 0.0       |
+| getServices(IReportTransformerService)    | 2     | 0.0       |
+| getService(ILicenseService)               | 2     | 0.0       |
+| getService(IApplication)                  | 15    | 0.0       |
+| getService(IExecutionCategoriesProvider)  | 3     | 0.0       |
+| getService(IIssueTrackingTagsService)     | 2     | 0.0       |
+| getService(IParallelRunner)               | 3     | 0.001     |
+| getService(ICoverageService)              | 5     | 0.001     |
+| getService(IAuthorshipService)            | 3     | 0.003     |
+| getServices(IAnalyzerService)             | 2     | 0.003     |
+| getService(ILocationsManager)             | 2     | 0.003     |
+| getService(IScmService)                   | 2     | 0.007     |
+| getServices(IPreferences)                 | 14    | 0.009     |
+| getServices(IVariablesResolver)           | 2     | 0.017     |
+| getService(IOidcService)                  | 3     | 0.018     |
+| getService(IDtpServiceRegistry)           | 3     | 0.806     |
++ ----------------------------------------- + ----- + --------- +
+TOTAL: 0.868
+================================================================================================
+SERVICES INSTANCES COUNT
+================================================================================================
+
++ ----------------------------------------------------------------------------- + ----- +
+| Class                                                                         | Count |
++ ----------------------------------------------------------------------------- + ----- +
+| com.parasoft.xtest.authorship.internal.computer.AuthorshipService             | 1     |
+| com.parasoft.xtest.authorship.internal.computer.LocalUserAuthorshipComputer   | 1     |
+| com.parasoft.xtest.authorship.internal.computer.ScmAuthorshipComputer         | 1     |
+| com.parasoft.xtest.common.dtp.DtpFilePublisher                                | 1     |
+| com.parasoft.xtest.common.dtp.DtpPreferences                                  | 1     |
+| com.parasoft.xtest.common.dtp.DtpServiceRegistry                              | 1     |
+| com.parasoft.xtest.common.httpclient.DefaultProxySettingsProvider             | 1     |
+| com.parasoft.xtest.common.issuetracking.IssueTrackingTagsPreferences          | 1     |
+| com.parasoft.xtest.common.issuetracking.IssueTrackingTagsService              | 1     |
+| com.parasoft.xtest.common.issuetracking.IssueTrackingTagsServiceFactory       | 1     |
+| com.parasoft.xtest.common.locations.LocationsManager                          | 1     |
+| com.parasoft.xtest.common.oidc.OidcService                                    | 1     |
+| com.parasoft.xtest.common.preferences.GeneralPreferences                      | 1     |
+| com.parasoft.xtest.common.preferences.OidcPreferences                         | 1     |
+| com.parasoft.xtest.common.profiler.ProfilerStatisticsService                  | 1     |
+| com.parasoft.xtest.common.variables.AnalysisTypeVariableProvider              | 1     |
+| com.parasoft.xtest.common.variables.ConfigNameVariableProvider                | 1     |
+| com.parasoft.xtest.common.variables.DtpProjectVariableProvider                | 1     |
+| com.parasoft.xtest.common.variables.DynamicVariablesResolver                  | 1     |
+| com.parasoft.xtest.common.variables.EnvironmentVariablesResolver              | 1     |
+| com.parasoft.xtest.common.variables.ExecEnvVariableProvider                   | 1     |
+| com.parasoft.xtest.common.variables.GeneralProjectVariableProvider            | 1     |
+| com.parasoft.xtest.common.variables.JvmPropertyVariableProvider               | 1     |
+| com.parasoft.xtest.common.variables.LocalSettingVariableProvider              | 1     |
+| com.parasoft.xtest.common.variables.ScontrolBranchVariableProvider            | 1     |
+| com.parasoft.xtest.common.variables.TimeVariableProvider                      | 1     |
+| com.parasoft.xtest.common.variables.ToolNameVariableProvider                  | 1     |
+| com.parasoft.xtest.common.variables.UserNameVariableProvider                  | 1     |
+| com.parasoft.xtest.coverage.CoverageService                                   | 1     |
+| com.parasoft.xtest.coverage.all.CoverageServicesRegistry$1$1                  | 1     |
+| com.parasoft.xtest.coverage.all.CoverageServicesRegistry$2                    | 1     |
+| com.parasoft.xtest.coverage.all.CoverageServicesRegistry$3                    | 1     |
+| com.parasoft.xtest.coverage.all.CoverageServicesRegistry$4                    | 1     |
+| com.parasoft.xtest.coverage.all.CoverageServicesRegistry$5                    | 1     |
+| com.parasoft.xtest.coverage.all.CoverageServicesRegistry$6                    | 1     |
+| com.parasoft.xtest.coverage.all.CoverageServicesRegistry$7                    | 1     |
+| com.parasoft.xtest.coverage.all.internal.XRestCoverageReportPublisher         | 1     |
+| com.parasoft.xtest.coverage.factories.LineCoverageFactory                     | 1     |
+| com.parasoft.xtest.reports.internal.ReportsService                            | 1     |
+| com.parasoft.xtest.reports.internal.transformers.XMLReportTransformer         | 1     |
+| com.parasoft.xtest.reports.txt.CoverageConsoleReporterServiceFactory          | 1     |
+| com.parasoft.xtest.reports.xml.CoverageReporterServiceFactory                 | 1     |
+| com.parasoft.xtest.reports.xml.XMLReporterServiceFactory                      | 1     |
+| com.parasoft.xtest.results.internal.ResultsInitManager                        | 1     |
+| com.parasoft.xtest.results.internal.factory.DefaultExecutionResultFactory     | 1     |
+| com.parasoft.xtest.results.internal.factory.DefaultScopeResultFactory         | 1     |
+| com.parasoft.xtest.results.internal.factory.DefaultSetupProblemsResultFactory | 1     |
+| com.parasoft.xtest.results.violations.UnitTestCategoriesProvider              | 1     |
+| com.parasoft.xtest.results.xml.UnitTestViolationStorage                       | 1     |
+| com.parasoft.xtest.scontrol.internal.git.GitSourceControlService              | 1     |
++ ----------------------------------------------------------------------------- + ----- +
+================================================================================================
+PROFILER RESULTS
+================================================================================================
+
+XRest Profiler
++ ------------------------- + ----- + --------- + ------- + ------- + ------- +
+| NAME                      | COUNT | TOTAL [s] | MIN [s] | MAX [s] | AVG [s] |
++ ------------------------- + ----- + --------- + ------- + ------- + ------- +
+| /api/v2/dataCollector     | 1     | 0.255     | 0.255   | 0.255   | 0.255   |
+| /grs/api/v1.9/dtpServices | 1     | 0.211     | 0.211   | 0.211   | 0.211   |
+| /grs/api/v1/dtpServices   | 1     | 0.022     | 0.022   | 0.022   | 0.022   |
++ ------------------------- + ----- + --------- + ------- + ------- + ------- +
+TOTAL: 0.488s
+
+Coverage Profiler
++ ------------------ + ----- + --------- + ------- + ------- + ------- +
+| NAME               | COUNT | TOTAL [s] | MIN [s] | MAX [s] | AVG [s] |
++ ------------------ + ----- + --------- + ------- + ------- + ------- +
+| getGlobalStorage() | 1     | 0.024     | 0.024   | 0.024   | 0.024   |
+| initializeMetadata | 1     | 0.014     | 0.014   | 0.014   | 0.014   |
++ ------------------ + ----- + --------- + ------- + ------- + ------- +
+TOTAL: 0.038s
+
+Reports Profiler
++ ------------------------------------ + ----- + --------- + ------- + ------- + ------- +
+| NAME                                 | COUNT | TOTAL [s] | MIN [s] | MAX [s] | AVG [s] |
++ ------------------------------------ + ----- + --------- + ------- + ------- + ------- +
+| XMLReporterService.generateReports() | 1     | 0.359     | 0.359   | 0.359   | 0.359   |
+| ReportsService.generateReports()     | 1     | 0.333     | 0.333   | 0.333   | 0.333   |
+| XMLReporterService.generateReport()  | 1     | 0.219     | 0.219   | 0.219   | 0.219   |
+| XMLReporter.reportResult()           | 1     | 0.029     | 0.029   | 0.029   | 0.029   |
+| XMLReporter.openReport()             | 1     | 0.015     | 0.015   | 0.015   | 0.015   |
+| SessionData.readSessionData()        | 1     | 0.005     | 0.005   | 0.005   | 0.005   |
++ ------------------------------------ + ----- + --------- + ------- + ------- + ------- +
+TOTAL: 0.96s
+
+VM Info Profiler
++ ------ + ----- + --------- + ------- + ------- + ------- +
+| NAME   | COUNT | TOTAL [s] | MIN [s] | MAX [s] | AVG [s] |
++ ------ + ----- + --------- + ------- + ------- + ------- +
+| Docker | 1     | 0.007     | 0.007   | 0.007   | 0.007   |
+| AWS    | 1     | 0.0       | 0.0     | 0.0     | 0.0     |
+| Azure  | 1     | 0.0       | 0.0     | 0.0     | 0.0     |
++ ------ + ----- + --------- + ------- + ------- + ------- +
+TOTAL: 0.007s
+================================================================================================
+MEMORY STATISTICS
+================================================================================================
+
++ -------------- + --------- +
+| Memory Metric  | Size [MB] |
++ -------------- + --------- +
+| Current memory | 18        |
+| Max memory     | 4121      |
+| Total memory   | 18        |
++ -------------- + --------- +
+================================================================================================
+LOG ISSUES
+================================================================================================
+
++ ------------- + ----- +
+| Logging Level | Count |
++ ------------- + ----- +
+| TRACE         | 0     |
+| TIME          | 1     |
+| DEBUG         | 177   |
+| INFO          | 65    |
+| WARN          | 4     |
+| ERROR         | 1     |
+| FATAL         | 0     |
++ ------------- + ----- +
+================================================================================================
+Source Publishing Info
+================================================================================================
+Sources total: 0
+Sources to publish: 0
+Sources published: 0
+Bytes sent: 0
+Exceptions: 0
+Messages: 0
+================================================================================================
+SCM PROBLEMS
+================================================================================================
+Instances:
+    (none)
+
+Invalid (missing required keys) repositories:
+    (none)
+
+Incomplete (partially recognized) repositories:
+    (none)
+
+

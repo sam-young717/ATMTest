@@ -1,0 +1,170 @@
+<->
+<F>/mnt/c/Users/syoung/Documents/RunnerCT/actions-runner/_work/CTDemo/CTDemo/Account.cpp
+<c>MISRA2004-13_2
+<b>Test of a value against zero should be made explicit
+<l>19
+<k>2
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>/mnt/c/Users/syoung/Documents/RunnerCT/actions-runner/_work/CTDemo/CTDemo/Account.cpp
+<c>CODSTA-122_a
+<b>Unused function's "for_each" return value
+<l>58
+<k>2
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>/mnt/c/Users/syoung/Documents/RunnerCT/actions-runner/_work/CTDemo/CTDemo/Account.cpp
+<c>MISRA2004-14_7
+<b>Provide only one exit point in 'listTransactions' function
+<l>48
+<k>3
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>/mnt/c/Users/syoung/Documents/RunnerCT/actions-runner/_work/CTDemo/CTDemo/Account.cpp
+<c>MISRA2004-14_7
+<b>Provide only one exit point in 'listTransactions' function
+<l>68
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>/mnt/c/Users/syoung/Documents/RunnerCT/actions-runner/_work/CTDemo/CTDemo/Account.hxx
+<c>MISRA2004-16_3
+<b>Names shall be given for all the parameters in function 'Account'
+<l>21
+<k>9
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>/mnt/c/Users/syoung/Documents/RunnerCT/actions-runner/_work/CTDemo/CTDemo/Account.cpp
+<c>CODSTA-122_a
+<b>Unused function's "for_each" return value
+<l>58
+<k>2
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>/mnt/c/Users/syoung/Documents/RunnerCT/actions-runner/_work/CTDemo/CTDemo/Account.hxx
+<c>MISRA2004-16_3
+<b>Names shall be given for all the parameters in function 'listTransactions'
+<l>64
+<k>13
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>/mnt/c/Users/syoung/Documents/RunnerCT/actions-runner/_work/CTDemo/CTDemo/Account.hxx
+<c>MISRA2004-16_3
+<b>Names shall be given for all the parameters in function 'Account'
+<l>68
+<k>9
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>/mnt/c/Users/syoung/Documents/RunnerCT/actions-runner/_work/CTDemo/CTDemo/Account.hxx
+<c>MISRA2004-16_3
+<b>Names shall be given for all the parameters in function '='
+<l>69
+<k>26
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>/mnt/c/Users/syoung/Documents/RunnerCT/actions-runner/_work/CTDemo/CTDemo/Account.cpp
+<c>MISRA2004-6_3_b
+<b>The standard integer type 'int' should not be used
+<l>42
+<k>1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>/mnt/c/Users/syoung/Documents/RunnerCT/actions-runner/_work/CTDemo/CTDemo/Account.cpp
+<c>MISRA2004-6_3_b
+<b>The standard integer type 'int' should not be used
+<l>44
+<k>2
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>/mnt/c/Users/syoung/Documents/RunnerCT/actions-runner/_work/CTDemo/CTDemo/ATM.hxx
+<c>MISRA2004-6_3_b
+<b>The standard integer type 'int' should not be used
+<l>26
+<k>26
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>/mnt/c/Users/syoung/Documents/RunnerCT/actions-runner/_work/CTDemo/CTDemo/Account.hxx
+<c>MISRA2004-6_3_b
+<b>The standard integer type 'int' should not be used
+<l>38
+<k>31
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>/mnt/c/Users/syoung/Documents/RunnerCT/actions-runner/_work/CTDemo/CTDemo/Account.hxx
+<c>MISRA2004-6_3_b
+<b>The standard integer type 'int' should not be used
+<l>64
+<k>9
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>/mnt/c/Users/syoung/Documents/RunnerCT/actions-runner/_work/CTDemo/CTDemo/Account.hxx
+<c>MISRA2004-6_3_b
+<b>The standard integer type 'int' should not be used
+<l>71
+<k>9
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>/mnt/c/Users/syoung/Documents/RunnerCT/actions-runner/_work/CTDemo/CTDemo/Bank.hxx
+<c>MISRA2004-6_3_b
+<b>The standard integer type 'int' should not be used
+<l>17
+<k>25
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>/mnt/c/Users/syoung/Documents/RunnerCT/actions-runner/_work/CTDemo/CTDemo/Bank.hxx
+<c>MISRA2004-6_3_b
+<b>The standard integer type 'int' should not be used
+<l>23
+<k>9
+<s>false
+<N>
+<f>
+<L>0

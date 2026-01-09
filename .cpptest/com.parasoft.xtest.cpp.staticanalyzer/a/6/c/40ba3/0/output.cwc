@@ -1,0 +1,180 @@
+<->
+<F>/mnt/c/Users/syoung/Documents/RunnerCT/actions-runner/_work/CTDemo/CTDemo/ATM.cpp
+<c>MISRAC2025-RULE_11_4-c
+<b>Do not cast pointer type 'Account *' to integral type 'bool'
+<l>15
+<k>11
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>/mnt/c/Users/syoung/Documents/RunnerCT/actions-runner/_work/CTDemo/CTDemo/ATM.cpp
+<c>MISRAC2025-RULE_11_4-c
+<b>Do not cast pointer type 'Account *' to integral type 'bool'
+<l>23
+<k>9
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>/mnt/c/Users/syoung/Documents/RunnerCT/actions-runner/_work/CTDemo/CTDemo/ATM.cpp
+<c>CODSTA-138
+<b>Assignment operator '=' is used in improper context
+<l>15
+<k>12
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>/mnt/c/Users/syoung/Documents/RunnerCT/actions-runner/_work/CTDemo/CTDemo/ATM.cpp
+<c>CODSTA-138
+<b>Assignment operator '=' is used in improper context
+<l>15
+<k>12
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>/mnt/c/Users/syoung/Documents/RunnerCT/actions-runner/_work/CTDemo/CTDemo/ATM.cpp
+<c>CODSTA-138
+<b>Assignment operator '=' is used in improper context
+<l>15
+<k>12
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>/mnt/c/Users/syoung/Documents/RunnerCT/actions-runner/_work/CTDemo/CTDemo/ATM.cpp
+<c>CODSTA-138
+<b>Assignment operator '=' is used in improper context
+<l>15
+<k>12
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>/mnt/c/Users/syoung/Documents/RunnerCT/actions-runner/_work/CTDemo/CTDemo/ATM.cpp
+<c>CODSTA-64_b
+<b>The 'case' branch in a switch should be unconditionally terminated
+<l>32
+<k>13
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>/mnt/c/Users/syoung/Documents/RunnerCT/actions-runner/_work/CTDemo/CTDemo/ATM.cpp
+<c>CODSTA-64_b
+<b>The 'case' branch in a switch should be unconditionally terminated
+<l>32
+<k>13
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>/mnt/c/Users/syoung/Documents/RunnerCT/actions-runner/_work/CTDemo/CTDemo/ATM.cpp
+<c>MISRA2004-14_9
+<b>An 'if' statement should be followed by a block
+<l>23
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>/mnt/c/Users/syoung/Documents/RunnerCT/actions-runner/_work/CTDemo/CTDemo/ATM.cpp
+<c>MISRA2004-14_9
+<b>An 'if' statement should be followed by a block
+<l>23
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>/mnt/c/Users/syoung/Documents/RunnerCT/actions-runner/_work/CTDemo/CTDemo/ATM.cpp
+<c>CODSTA-35
+<b>Missing default branch in switch statement
+<l>24
+<k>9
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>/mnt/c/Users/syoung/Documents/RunnerCT/actions-runner/_work/CTDemo/CTDemo/ATM.cpp
+<c>MISRA2004-13_2
+<b>Test of a value against zero should be made explicit
+<l>23
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>/mnt/c/Users/syoung/Documents/RunnerCT/actions-runner/_work/CTDemo/CTDemo/Account.hxx
+<c>MISRA2004-16_3
+<b>Names shall be given for all the parameters in function 'Account'
+<l>21
+<k>9
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>/mnt/c/Users/syoung/Documents/RunnerCT/actions-runner/_work/CTDemo/CTDemo/Account.hxx
+<c>MISRA2004-16_3
+<b>Names shall be given for all the parameters in function 'listTransactions'
+<l>64
+<k>13
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>/mnt/c/Users/syoung/Documents/RunnerCT/actions-runner/_work/CTDemo/CTDemo/Account.hxx
+<c>MISRA2004-16_3
+<b>Names shall be given for all the parameters in function 'Account'
+<l>68
+<k>9
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>/mnt/c/Users/syoung/Documents/RunnerCT/actions-runner/_work/CTDemo/CTDemo/Account.hxx
+<c>MISRA2004-16_3
+<b>Names shall be given for all the parameters in function '='
+<l>69
+<k>26
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>/mnt/c/Users/syoung/Documents/RunnerCT/actions-runner/_work/CTDemo/CTDemo/Account.hxx
+<c>CODSTA-122_a
+<b>Unused function's "for_each" return value
+<l>60
+<k>13
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>/mnt/c/Users/syoung/Documents/RunnerCT/actions-runner/_work/CTDemo/CTDemo/ATM.cpp
+<c>MISRA2004-6_3_b
+<b>The standard integer type 'int' should not be used
+<l>13
+<k>23
+<s>false
+<N>
+<f>
+<L>0

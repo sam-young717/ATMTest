@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ResultsSession buildId="MISRA C 2023-2025-10-28" date="10/28/25 12:17:52" machine="syoung-pc" project="MISRA C 2023" tag="${scontrol_branch}-linux_x86_64" time="2025-10-28T12:17:52-04:00" toolName="C/C++test CT" toolVer="2025.1.0.20250520B1027" user="syoung" dtpRepReason="cvg" toolDispName="C/C++test CT">
+   <TestConfig machine="syoung-pc" name="cpptestcov" pseudoUrl="builtin://cpptestcov" user="syoung"/>
+   <Exec ownerId="com.parasoft.xtest.checkers.api.execution" time="0:00:00">
+      <Coverage>
+         <Types>
+            <CvgType cvgDecor="marker" dispId="LC" dispName="Line Coverage" id="LC" />
+            <CvgType cvgDecor="marker" dispId="SC" dispName="Statement Coverage" id="SC" />
+            <CvgType cvgDecor="marker" dispId="BC" dispName="Block Coverage" id="BC" />
+            <CvgType cvgDecor="marker" dispId="DC" dispName="Decision (Branch) Coverage" id="DC" />
+            <CvgType cvgDecor="marker" dispId="SCC" dispName="Simple Condition Coverage" id="SCC" />
+            <CvgType cvgDecor="marker" dispId="MCDC" dispName="Modified Condition Decision Coverage" id="MCDC" />
+            <CvgType cvgDecor="marker" dispId="FC" dispName="Function Coverage" id="FC" />
+            <CvgType cvgDecor="marker" dispId="CC" dispName="Call Coverage" id="CC" />
+         </Types>
+         <CvgStats>
+            <!-- 'total' = coverable items                  -->
+            <!-- 'supp'  = suppressed items                 -->
+            <!-- 'num'   = covered items + suppressed items -->
+            <!-- 'val'   = percentage value (num / total)   -->
+         </CvgStats>
+      </Coverage>
+   </Exec>
+</ResultsSession>

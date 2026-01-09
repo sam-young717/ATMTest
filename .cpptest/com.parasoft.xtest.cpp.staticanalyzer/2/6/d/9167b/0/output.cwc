@@ -1,0 +1,120 @@
+<->
+<F>/mnt/c/Users/syoung/Documents/RunnerCT/actions-runner/_work/CTDemo/CTDemo/build/_deps/googletest-src/googlemock/src/gmock-all.cc
+<c>NAMING-49
+<b>Implementation file 'gmock-all.cc' should have the file name extension ".cpp"
+<l>1
+<k>1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>/mnt/c/Users/syoung/Documents/RunnerCT/actions-runner/_work/CTDemo/CTDemo/build/_deps/googletest-src/googlemock/src/gmock-all.cc
+<c>PREPROC-09
+<b>Disallowed #include notation is being used: "gmock/gmock.h"
+<l>39
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>/mnt/c/Users/syoung/Documents/RunnerCT/actions-runner/_work/CTDemo/CTDemo/build/_deps/googletest-src/googlemock/src/gmock-all.cc
+<c>PREPROC-08
+<b>Not a proper header file (*.h ) is being included: "src/gmock-cardinalities.cc"
+<l>42
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>/mnt/c/Users/syoung/Documents/RunnerCT/actions-runner/_work/CTDemo/CTDemo/build/_deps/googletest-src/googlemock/src/gmock-all.cc
+<c>PREPROC-09
+<b>Disallowed #include notation is being used: "src/gmock-cardinalities.cc"
+<l>42
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>/mnt/c/Users/syoung/Documents/RunnerCT/actions-runner/_work/CTDemo/CTDemo/build/_deps/googletest-src/googlemock/src/gmock-all.cc
+<c>PREPROC-08
+<b>Not a proper header file (*.h ) is being included: "src/gmock-internal-utils.cc"
+<l>43
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>/mnt/c/Users/syoung/Documents/RunnerCT/actions-runner/_work/CTDemo/CTDemo/build/_deps/googletest-src/googlemock/src/gmock-all.cc
+<c>PREPROC-09
+<b>Disallowed #include notation is being used: "src/gmock-internal-utils.cc"
+<l>43
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>/mnt/c/Users/syoung/Documents/RunnerCT/actions-runner/_work/CTDemo/CTDemo/build/_deps/googletest-src/googlemock/src/gmock-all.cc
+<c>PREPROC-08
+<b>Not a proper header file (*.h ) is being included: "src/gmock-matchers.cc"
+<l>44
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>/mnt/c/Users/syoung/Documents/RunnerCT/actions-runner/_work/CTDemo/CTDemo/build/_deps/googletest-src/googlemock/src/gmock-all.cc
+<c>PREPROC-09
+<b>Disallowed #include notation is being used: "src/gmock-matchers.cc"
+<l>44
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>/mnt/c/Users/syoung/Documents/RunnerCT/actions-runner/_work/CTDemo/CTDemo/build/_deps/googletest-src/googlemock/src/gmock-all.cc
+<c>PREPROC-08
+<b>Not a proper header file (*.h ) is being included: "src/gmock-spec-builders.cc"
+<l>45
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>/mnt/c/Users/syoung/Documents/RunnerCT/actions-runner/_work/CTDemo/CTDemo/build/_deps/googletest-src/googlemock/src/gmock-all.cc
+<c>PREPROC-09
+<b>Disallowed #include notation is being used: "src/gmock-spec-builders.cc"
+<l>45
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>/mnt/c/Users/syoung/Documents/RunnerCT/actions-runner/_work/CTDemo/CTDemo/build/_deps/googletest-src/googlemock/src/gmock-all.cc
+<c>PREPROC-08
+<b>Not a proper header file (*.h ) is being included: "src/gmock.cc"
+<l>46
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>/mnt/c/Users/syoung/Documents/RunnerCT/actions-runner/_work/CTDemo/CTDemo/build/_deps/googletest-src/googlemock/src/gmock-all.cc
+<c>PREPROC-09
+<b>Disallowed #include notation is being used: "src/gmock.cc"
+<l>46
+<k>-1
+<s>false
+<N>
+<f>
+<L>0

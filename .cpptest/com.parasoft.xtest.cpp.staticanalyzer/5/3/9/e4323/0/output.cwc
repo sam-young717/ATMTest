@@ -1,0 +1,170 @@
+<->
+<F>/mnt/c/Users/syoung/Documents/RunnerCT/actions-runner/_work/CTDemo/CTDemo/_deps/googletest-src/googletest/include/gtest/gtest.h
+<c>MISRA2004-19_11_b
+<b>Macro might be not defined: GTEST_USE_OWN_FLAGFILE_FLAG_
+<l>160
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>/mnt/c/Users/syoung/Documents/RunnerCT/actions-runner/_work/CTDemo/CTDemo/_deps/googletest-src/googletest/include/gtest/gtest.h
+<c>MISRA2004-19_11_b
+<b>Macro might be not defined: GTEST_HAS_EXCEPTIONS
+<l>911
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>/mnt/c/Users/syoung/Documents/RunnerCT/actions-runner/_work/CTDemo/CTDemo/_deps/googletest-src/googletest/include/gtest/gtest.h
+<c>MISRA2004-19_11_b
+<b>Macro might be not defined: GTEST_HAS_STD_WSTRING
+<l>1561
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>/mnt/c/Users/syoung/Documents/RunnerCT/actions-runner/_work/CTDemo/CTDemo/_deps/googletest-src/googletest/include/gtest/gtest.h
+<c>MISRA2004-19_11_b
+<b>Macro might be not defined: GTEST_DONT_DEFINE_FAIL
+<l>1768
+<k>42
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>/mnt/c/Users/syoung/Documents/RunnerCT/actions-runner/_work/CTDemo/CTDemo/_deps/googletest-src/googletest/include/gtest/gtest.h
+<c>MISRA2004-19_11_b
+<b>Macro might be not defined: GTEST_DONT_DEFINE_SUCCEED
+<l>1778
+<k>45
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>/mnt/c/Users/syoung/Documents/RunnerCT/actions-runner/_work/CTDemo/CTDemo/_deps/googletest-src/googletest/include/gtest/gtest.h
+<c>MISRA2004-19_11_b
+<b>Macro might be not defined: GTEST_DONT_DEFINE_EXPECT_TRUE
+<l>1822
+<k>49
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>/mnt/c/Users/syoung/Documents/RunnerCT/actions-runner/_work/CTDemo/CTDemo/_deps/googletest-src/googletest/include/gtest/gtest.h
+<c>MISRA2004-19_11_b
+<b>Macro might be not defined: GTEST_DONT_DEFINE_EXPECT_FALSE
+<l>1826
+<k>50
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>/mnt/c/Users/syoung/Documents/RunnerCT/actions-runner/_work/CTDemo/CTDemo/_deps/googletest-src/googletest/include/gtest/gtest.h
+<c>MISRA2004-19_11_b
+<b>Macro might be not defined: GTEST_DONT_DEFINE_ASSERT_TRUE
+<l>1830
+<k>49
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>/mnt/c/Users/syoung/Documents/RunnerCT/actions-runner/_work/CTDemo/CTDemo/_deps/googletest-src/googletest/include/gtest/gtest.h
+<c>MISRA2004-19_11_b
+<b>Macro might be not defined: GTEST_DONT_DEFINE_ASSERT_FALSE
+<l>1834
+<k>50
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>/mnt/c/Users/syoung/Documents/RunnerCT/actions-runner/_work/CTDemo/CTDemo/_deps/googletest-src/googletest/include/gtest/gtest.h
+<c>MISRA2004-19_11_b
+<b>Macro might be not defined: GTEST_DONT_DEFINE_ASSERT_EQ
+<l>1913
+<k>47
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>/mnt/c/Users/syoung/Documents/RunnerCT/actions-runner/_work/CTDemo/CTDemo/_deps/googletest-src/googletest/include/gtest/gtest.h
+<c>MISRA2004-19_11_b
+<b>Macro might be not defined: GTEST_DONT_DEFINE_ASSERT_NE
+<l>1917
+<k>47
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>/mnt/c/Users/syoung/Documents/RunnerCT/actions-runner/_work/CTDemo/CTDemo/_deps/googletest-src/googletest/include/gtest/gtest.h
+<c>MISRA2004-19_11_b
+<b>Macro might be not defined: GTEST_DONT_DEFINE_ASSERT_LE
+<l>1921
+<k>47
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>/mnt/c/Users/syoung/Documents/RunnerCT/actions-runner/_work/CTDemo/CTDemo/_deps/googletest-src/googletest/include/gtest/gtest.h
+<c>MISRA2004-19_11_b
+<b>Macro might be not defined: GTEST_DONT_DEFINE_ASSERT_LT
+<l>1925
+<k>47
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>/mnt/c/Users/syoung/Documents/RunnerCT/actions-runner/_work/CTDemo/CTDemo/_deps/googletest-src/googletest/include/gtest/gtest.h
+<c>MISRA2004-19_11_b
+<b>Macro might be not defined: GTEST_DONT_DEFINE_ASSERT_GE
+<l>1929
+<k>47
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>/mnt/c/Users/syoung/Documents/RunnerCT/actions-runner/_work/CTDemo/CTDemo/_deps/googletest-src/googletest/include/gtest/gtest.h
+<c>MISRA2004-19_11_b
+<b>Macro might be not defined: GTEST_DONT_DEFINE_ASSERT_GT
+<l>1933
+<k>47
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>/mnt/c/Users/syoung/Documents/RunnerCT/actions-runner/_work/CTDemo/CTDemo/_deps/googletest-src/googletest/include/gtest/gtest.h
+<c>MISRA2004-19_11_b
+<b>Macro might be not defined: GTEST_DONT_DEFINE_TEST
+<l>2191
+<k>42
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>/mnt/c/Users/syoung/Documents/RunnerCT/actions-runner/_work/CTDemo/CTDemo/_deps/googletest-src/googletest/include/gtest/gtest.h
+<c>MISRA2004-19_11_b
+<b>Macro might be not defined: GTEST_DONT_DEFINE_TEST_F
+<l>2223
+<k>44
+<s>false
+<N>
+<f>
+<L>0

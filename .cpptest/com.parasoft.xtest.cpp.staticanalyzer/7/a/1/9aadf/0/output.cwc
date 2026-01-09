@@ -1,0 +1,170 @@
+<->
+<F>/mnt/c/Users/syoung/Documents/RunnerCT/actions-runner/_work/CTDemo/CTDemo/build/_deps/googletest-src/googlemock/src/gmock_main.cc
+<c>NAMING-49
+<b>Implementation file 'gmock_main.cc' should have the file name extension ".cpp"
+<l>1
+<k>1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>/mnt/c/Users/syoung/Documents/RunnerCT/actions-runner/_work/CTDemo/CTDemo/build/_deps/googletest-src/googlemock/src/gmock_main.cc
+<c>METRICS-26
+<b>Line contains more than 120 characters: 143
+<l>57
+<k>1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>/mnt/c/Users/syoung/Documents/RunnerCT/actions-runner/_work/CTDemo/CTDemo/build/_deps/googletest-src/googlemock/src/gmock_main.cc
+<c>COMMENT-03
+<b>Add comment containing the information on the file at the begin of file 'gmock_main.cc'
+<l>1
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>/mnt/c/Users/syoung/Documents/RunnerCT/actions-runner/_work/CTDemo/CTDemo/build/_deps/googletest-src/googlemock/src/gmock_main.cc
+<c>PREPROC-10_b
+<b>#endif pre-processor directive should not be used
+<l>39
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>/mnt/c/Users/syoung/Documents/RunnerCT/actions-runner/_work/CTDemo/CTDemo/build/_deps/googletest-src/googlemock/src/gmock_main.cc
+<c>PREPROC-10_b
+<b>#endif pre-processor directive should not be used
+<l>49
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>/mnt/c/Users/syoung/Documents/RunnerCT/actions-runner/_work/CTDemo/CTDemo/build/_deps/googletest-src/googlemock/src/gmock_main.cc
+<c>PREPROC-10_b
+<b>#endif pre-processor directive should not be used
+<l>65
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>/mnt/c/Users/syoung/Documents/RunnerCT/actions-runner/_work/CTDemo/CTDemo/build/_deps/googletest-src/googlemock/src/gmock_main.cc
+<c>PREPROC-10_b
+<b>#endif pre-processor directive should not be used
+<l>73
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>/mnt/c/Users/syoung/Documents/RunnerCT/actions-runner/_work/CTDemo/CTDemo/build/_deps/googletest-src/googlemock/src/gmock_main.cc
+<c>PREPROC-09
+<b>Disallowed #include notation is being used: "gmock/gmock.h"
+<l>32
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>/mnt/c/Users/syoung/Documents/RunnerCT/actions-runner/_work/CTDemo/CTDemo/build/_deps/googletest-src/googlemock/src/gmock_main.cc
+<c>PREPROC-09
+<b>Disallowed #include notation is being used: "gtest/gtest.h"
+<l>33
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>/mnt/c/Users/syoung/Documents/RunnerCT/actions-runner/_work/CTDemo/CTDemo/build/_deps/googletest-src/googlemock/src/gmock_main.cc
+<c>PREPROC-11_b
+<b>The #if preprocessor directive is used
+<l>35
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>/mnt/c/Users/syoung/Documents/RunnerCT/actions-runner/_work/CTDemo/CTDemo/build/_deps/googletest-src/googlemock/src/gmock_main.cc
+<c>PREPROC-11
+<b>The #ifdef preprocessor directive is used
+<l>37
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>/mnt/c/Users/syoung/Documents/RunnerCT/actions-runner/_work/CTDemo/CTDemo/build/_deps/googletest-src/googlemock/src/gmock_main.cc
+<c>PREPROC-11
+<b>The #ifdef preprocessor directive is used
+<l>47
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>/mnt/c/Users/syoung/Documents/RunnerCT/actions-runner/_work/CTDemo/CTDemo/build/_deps/googletest-src/googlemock/src/gmock_main.cc
+<c>PREPROC-11
+<b>The #else preprocessor directive is used
+<l>51
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>/mnt/c/Users/syoung/Documents/RunnerCT/actions-runner/_work/CTDemo/CTDemo/build/_deps/googletest-src/googlemock/src/gmock_main.cc
+<c>PREPROC-11
+<b>The #ifdef preprocessor directive is used
+<l>59
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>/mnt/c/Users/syoung/Documents/RunnerCT/actions-runner/_work/CTDemo/CTDemo/build/_deps/googletest-src/googlemock/src/gmock_main.cc
+<c>MISRA2004-6_3_b
+<b>The basic numerical type 'int' should not be used
+<l>62
+<k>12
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>/mnt/c/Users/syoung/Documents/RunnerCT/actions-runner/_work/CTDemo/CTDemo/build/_deps/googletest-src/googlemock/src/gmock_main.cc
+<c>MISRA2004-6_3_b
+<b>The basic numerical type 'int' should not be used
+<l>62
+<k>23
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>/mnt/c/Users/syoung/Documents/RunnerCT/actions-runner/_work/CTDemo/CTDemo/build/_deps/googletest-src/googlemock/src/gmock_main.cc
+<c>PREPROC-11
+<b>The #else preprocessor directive is used
+<l>63
+<k>-1
+<s>false
+<N>
+<f>
+<L>0

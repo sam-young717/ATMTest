@@ -1,0 +1,4 @@
+{
+    "cpptest.testConfiguration": "builtin://MISRA C 2025",
+    "cpptest.commandLinePattern": "cpptestcli ${stopFile} ${compilerConfig} ${testConfig} ${reportDir} ${selectedFiles} -input build/compile_commands.json -exclude \"/mnt/c/Users/syoung/Documents/RunnerCT/actions-runner/_work/CTDemo/CTDemo/_deps/*\" -exclude /mnt/c/Users/syoung/Documents/RunnerCT/actions-runner/_work/CTDemo/CTDemo/gtest_main.cpp -exclude \"/mnt/c/Users/syoung/Documents/RunnerCT/actions-runner/_work/CTDemo/CTDemo/build/*\" -module ."
+}

@@ -1,0 +1,30 @@
+<->
+<F>/mnt/c/Users/syoung/Documents/RunnerCT/actions-runner/_work/CTDemo/CTDemo/BaseDisplay.cpp
+<c>MISRAC2025-RULE_11_4-c
+<b>Do not cast pointer type 'const char *' to integral type 'bool'
+<l>9
+<k>9
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>/mnt/c/Users/syoung/Documents/RunnerCT/actions-runner/_work/CTDemo/CTDemo/BaseDisplay.cpp
+<c>MISRA2004-13_2
+<b>Test of a value against zero should be made explicit
+<l>9
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>/mnt/c/Users/syoung/Documents/RunnerCT/actions-runner/_work/CTDemo/CTDemo/BaseDisplay.cpp
+<c>CODSTA-35
+<b>Missing default branch in switch statement
+<l>25
+<k>5
+<s>false
+<N>
+<f>
+<L>0

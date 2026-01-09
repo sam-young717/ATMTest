@@ -1,0 +1,200 @@
+<->
+<F>/mnt/c/Users/syoung/Documents/RunnerCT/actions-runner/_work/CTDemo/CTDemo/build/_deps/googletest-src/googletest/src/gtest-all.cc
+<c>NAMING-49
+<b>Implementation file 'gtest-all.cc' should have the file name extension ".cpp"
+<l>1
+<k>1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>/mnt/c/Users/syoung/Documents/RunnerCT/actions-runner/_work/CTDemo/CTDemo/build/_deps/googletest-src/googletest/src/gtest-all.cc
+<c>PREPROC-09
+<b>Disallowed #include notation is being used: "gtest/gtest.h"
+<l>38
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>/mnt/c/Users/syoung/Documents/RunnerCT/actions-runner/_work/CTDemo/CTDemo/build/_deps/googletest-src/googletest/src/gtest-all.cc
+<c>PREPROC-08
+<b>Not a proper header file (*.h ) is being included: "src/gtest-assertion-result.cc"
+<l>41
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>/mnt/c/Users/syoung/Documents/RunnerCT/actions-runner/_work/CTDemo/CTDemo/build/_deps/googletest-src/googletest/src/gtest-all.cc
+<c>PREPROC-09
+<b>Disallowed #include notation is being used: "src/gtest-assertion-result.cc"
+<l>41
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>/mnt/c/Users/syoung/Documents/RunnerCT/actions-runner/_work/CTDemo/CTDemo/build/_deps/googletest-src/googletest/src/gtest-all.cc
+<c>PREPROC-08
+<b>Not a proper header file (*.h ) is being included: "src/gtest-death-test.cc"
+<l>42
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>/mnt/c/Users/syoung/Documents/RunnerCT/actions-runner/_work/CTDemo/CTDemo/build/_deps/googletest-src/googletest/src/gtest-all.cc
+<c>PREPROC-09
+<b>Disallowed #include notation is being used: "src/gtest-death-test.cc"
+<l>42
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>/mnt/c/Users/syoung/Documents/RunnerCT/actions-runner/_work/CTDemo/CTDemo/build/_deps/googletest-src/googletest/src/gtest-all.cc
+<c>PREPROC-08
+<b>Not a proper header file (*.h ) is being included: "src/gtest-filepath.cc"
+<l>43
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>/mnt/c/Users/syoung/Documents/RunnerCT/actions-runner/_work/CTDemo/CTDemo/build/_deps/googletest-src/googletest/src/gtest-all.cc
+<c>PREPROC-09
+<b>Disallowed #include notation is being used: "src/gtest-filepath.cc"
+<l>43
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>/mnt/c/Users/syoung/Documents/RunnerCT/actions-runner/_work/CTDemo/CTDemo/build/_deps/googletest-src/googletest/src/gtest-all.cc
+<c>PREPROC-08
+<b>Not a proper header file (*.h ) is being included: "src/gtest-matchers.cc"
+<l>44
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>/mnt/c/Users/syoung/Documents/RunnerCT/actions-runner/_work/CTDemo/CTDemo/build/_deps/googletest-src/googletest/src/gtest-all.cc
+<c>PREPROC-09
+<b>Disallowed #include notation is being used: "src/gtest-matchers.cc"
+<l>44
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>/mnt/c/Users/syoung/Documents/RunnerCT/actions-runner/_work/CTDemo/CTDemo/build/_deps/googletest-src/googletest/src/gtest-all.cc
+<c>PREPROC-08
+<b>Not a proper header file (*.h ) is being included: "src/gtest-port.cc"
+<l>45
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>/mnt/c/Users/syoung/Documents/RunnerCT/actions-runner/_work/CTDemo/CTDemo/build/_deps/googletest-src/googletest/src/gtest-all.cc
+<c>PREPROC-09
+<b>Disallowed #include notation is being used: "src/gtest-port.cc"
+<l>45
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>/mnt/c/Users/syoung/Documents/RunnerCT/actions-runner/_work/CTDemo/CTDemo/build/_deps/googletest-src/googletest/src/gtest-all.cc
+<c>PREPROC-08
+<b>Not a proper header file (*.h ) is being included: "src/gtest-printers.cc"
+<l>46
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>/mnt/c/Users/syoung/Documents/RunnerCT/actions-runner/_work/CTDemo/CTDemo/build/_deps/googletest-src/googletest/src/gtest-all.cc
+<c>PREPROC-09
+<b>Disallowed #include notation is being used: "src/gtest-printers.cc"
+<l>46
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>/mnt/c/Users/syoung/Documents/RunnerCT/actions-runner/_work/CTDemo/CTDemo/build/_deps/googletest-src/googletest/src/gtest-all.cc
+<c>PREPROC-08
+<b>Not a proper header file (*.h ) is being included: "src/gtest-test-part.cc"
+<l>47
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>/mnt/c/Users/syoung/Documents/RunnerCT/actions-runner/_work/CTDemo/CTDemo/build/_deps/googletest-src/googletest/src/gtest-all.cc
+<c>PREPROC-09
+<b>Disallowed #include notation is being used: "src/gtest-test-part.cc"
+<l>47
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>/mnt/c/Users/syoung/Documents/RunnerCT/actions-runner/_work/CTDemo/CTDemo/build/_deps/googletest-src/googletest/src/gtest-all.cc
+<c>PREPROC-08
+<b>Not a proper header file (*.h ) is being included: "src/gtest-typed-test.cc"
+<l>48
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>/mnt/c/Users/syoung/Documents/RunnerCT/actions-runner/_work/CTDemo/CTDemo/build/_deps/googletest-src/googletest/src/gtest-all.cc
+<c>PREPROC-09
+<b>Disallowed #include notation is being used: "src/gtest-typed-test.cc"
+<l>48
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>/mnt/c/Users/syoung/Documents/RunnerCT/actions-runner/_work/CTDemo/CTDemo/build/_deps/googletest-src/googletest/src/gtest-all.cc
+<c>PREPROC-08
+<b>Not a proper header file (*.h ) is being included: "src/gtest.cc"
+<l>49
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>/mnt/c/Users/syoung/Documents/RunnerCT/actions-runner/_work/CTDemo/CTDemo/build/_deps/googletest-src/googletest/src/gtest-all.cc
+<c>PREPROC-09
+<b>Disallowed #include notation is being used: "src/gtest.cc"
+<l>49
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
